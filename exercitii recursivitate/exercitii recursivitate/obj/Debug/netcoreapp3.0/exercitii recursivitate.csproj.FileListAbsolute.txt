@@ -1,0 +1,11 @@
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\bin\Debug\netcoreapp3.0\exercitii recursivitate.exe
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\bin\Debug\netcoreapp3.0\exercitii recursivitate.deps.json
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\bin\Debug\netcoreapp3.0\exercitii recursivitate.runtimeconfig.json
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\bin\Debug\netcoreapp3.0\exercitii recursivitate.runtimeconfig.dev.json
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\bin\Debug\netcoreapp3.0\exercitii recursivitate.dll
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\bin\Debug\netcoreapp3.0\exercitii recursivitate.pdb
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\obj\Debug\netcoreapp3.0\exercitii recursivitate.csprojAssemblyReference.cache
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\obj\Debug\netcoreapp3.0\exercitii recursivitate.AssemblyInfoInputs.cache
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\obj\Debug\netcoreapp3.0\exercitii recursivitate.AssemblyInfo.cs
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\obj\Debug\netcoreapp3.0\exercitii recursivitate.dll
+D:\c# projects\exercitii recursivitate\exercitii recursivitate\obj\Debug\netcoreapp3.0\exercitii recursivitate.pdb

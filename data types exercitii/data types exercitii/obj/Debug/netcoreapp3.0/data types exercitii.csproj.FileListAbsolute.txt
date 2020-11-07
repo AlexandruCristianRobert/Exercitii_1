@@ -1,0 +1,11 @@
+D:\c# projects\data types exercitii\data types exercitii\bin\Debug\netcoreapp3.0\data types exercitii.exe
+D:\c# projects\data types exercitii\data types exercitii\bin\Debug\netcoreapp3.0\data types exercitii.deps.json
+D:\c# projects\data types exercitii\data types exercitii\bin\Debug\netcoreapp3.0\data types exercitii.runtimeconfig.json
+D:\c# projects\data types exercitii\data types exercitii\bin\Debug\netcoreapp3.0\data types exercitii.runtimeconfig.dev.json
+D:\c# projects\data types exercitii\data types exercitii\bin\Debug\netcoreapp3.0\data types exercitii.dll
+D:\c# projects\data types exercitii\data types exercitii\bin\Debug\netcoreapp3.0\data types exercitii.pdb
+D:\c# projects\data types exercitii\data types exercitii\obj\Debug\netcoreapp3.0\data types exercitii.csprojAssemblyReference.cache
+D:\c# projects\data types exercitii\data types exercitii\obj\Debug\netcoreapp3.0\data types exercitii.AssemblyInfoInputs.cache
+D:\c# projects\data types exercitii\data types exercitii\obj\Debug\netcoreapp3.0\data types exercitii.AssemblyInfo.cs
+D:\c# projects\data types exercitii\data types exercitii\obj\Debug\netcoreapp3.0\data types exercitii.dll
+D:\c# projects\data types exercitii\data types exercitii\obj\Debug\netcoreapp3.0\data types exercitii.pdb

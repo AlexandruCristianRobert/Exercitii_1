@@ -1,0 +1,11 @@
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\obj\Debug\netcoreapp3.0\Exercitii de baza_2.csprojAssemblyReference.cache
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\obj\Debug\netcoreapp3.0\Exercitii de baza_2.AssemblyInfoInputs.cache
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\obj\Debug\netcoreapp3.0\Exercitii de baza_2.AssemblyInfo.cs
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\bin\Debug\netcoreapp3.0\Exercitii de baza_2.exe
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\bin\Debug\netcoreapp3.0\Exercitii de baza_2.deps.json
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\bin\Debug\netcoreapp3.0\Exercitii de baza_2.runtimeconfig.json
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\bin\Debug\netcoreapp3.0\Exercitii de baza_2.runtimeconfig.dev.json
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\bin\Debug\netcoreapp3.0\Exercitii de baza_2.dll
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\bin\Debug\netcoreapp3.0\Exercitii de baza_2.pdb
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\obj\Debug\netcoreapp3.0\Exercitii de baza_2.dll
+D:\c# projects\Exercitii de baza_2\Exercitii de baza_2\obj\Debug\netcoreapp3.0\Exercitii de baza_2.pdb
